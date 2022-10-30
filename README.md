@@ -1,7 +1,10 @@
 # Twitter Sentiment Analysis using Neural Networks
 The repo includes code to process text, engineer features and perform sentiment analysis using Neural Networks. The project uses **LSTM** to train on the data and achieves a **testing accuracy of 79%**. LSTM is good at capturing the long-distance semantics between the words in a sentence.
 
-## Setup
+
+Twitter sentiment analysis allows you to keep track of what's being said about your product or service on social media, and can help you detect angry customers or negative mentions before they they escalate. At the same time, Twitter sentiment analysis can provide valuable insights that drive decisions.
+
+## Setup to use this code.
 
 ### Download the dataset
 The dataset has been taken from [Kaggle](https://www.kaggle.com/kazanova/sentiment140)
@@ -35,6 +38,7 @@ python train-test-split.py
 - Lemmatize words
 - Stem words
 
+Feel free to contribute and use this repo.
 
 
 
