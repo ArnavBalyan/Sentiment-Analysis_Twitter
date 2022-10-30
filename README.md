@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis using Neural Networks
-The repo includes code to process text, engineer features and perform sentiment analysis using Neural Networks. The project uses **LSTM** to train on the data and achieves a **testing accuracy of 79%**.
+The repo includes code to process text, engineer features and perform sentiment analysis using Neural Networks. The project uses **LSTM** to train on the data and achieves a **testing accuracy of 79%**. LSTM is good at capturing the long-distance semantics between the words in a sentence.
 
 ## Setup
 
